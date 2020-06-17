@@ -9,3 +9,5 @@ certain diseases or illness. For eg. by predicting life expectancy we can analyz
 IBM Watson, machine learning and node red are an integral part of an analysis.The end product will be a web page where
 you need to give all the required inputs and then submit it. Afterwards it will predict the life expectancy value 
 based on regression  technique.
+Sumit Singh
+Application NO- SPS_APL_20200003832
